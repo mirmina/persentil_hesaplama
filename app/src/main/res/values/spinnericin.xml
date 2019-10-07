@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="Aylar_dizisi">Spinner</string>
+    <string name="Aylar">Aylar</string>
     <string-array name="Aylar_dizisi">
-        <item>Yeni Doğan</item>
-        <item>1 Aylık</item>
+        <item>"Yeni Doğan"</item>
+        <item>"1 Aylık"</item>
     </string-array>
+
 </resources>
